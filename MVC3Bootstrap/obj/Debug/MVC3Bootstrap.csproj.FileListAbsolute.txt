@@ -5,3 +5,10 @@ F:\DotNetProjects\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
 F:\DotNetProjects\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
 F:\DotNetProjects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 F:\DotNetProjects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+F:\DotNetProjects\MVC3Bootstrap\MVC3Bootstrap\bin\MvcApplication1.dll
+F:\DotNetProjects\MVC3Bootstrap\MVC3Bootstrap\bin\MvcApplication1.pdb
+F:\DotNetProjects\MVC3Bootstrap\MVC3Bootstrap\bin\EntityFramework.dll
+F:\DotNetProjects\MVC3Bootstrap\MVC3Bootstrap\bin\EntityFramework.xml
+F:\DotNetProjects\MVC3Bootstrap\MVC3Bootstrap\obj\Debug\ResolveAssemblyReference.cache
+F:\DotNetProjects\MVC3Bootstrap\MVC3Bootstrap\obj\Debug\MvcApplication1.dll
+F:\DotNetProjects\MVC3Bootstrap\MVC3Bootstrap\obj\Debug\MvcApplication1.pdb
